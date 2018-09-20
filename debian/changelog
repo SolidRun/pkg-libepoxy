@@ -1,3 +1,11 @@
+libepoxy (1.3.1-2sr1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * don't explictly require mesa
+  * build against Vivante wayland userspace
+
+ -- Josua Mayer <josua@solid-run.com>  Thu, 20 Sep 2018 16:57:07 +0200
+
 libepoxy (1.3.1-2) unstable; urgency=medium
 
   * Set myself as maintainer, with previous maintainer authorization.
