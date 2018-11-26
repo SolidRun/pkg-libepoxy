@@ -8,7 +8,6 @@ Build-Depends: debhelper (>= 9),
                pkg-config,
                libx11-dev,
                libegl1-dev,
-               imx-gpu-viv-wl-dev,
                python:native
 Standards-Version: 3.9.8
 Section: libs
