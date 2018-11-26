@@ -1,3 +1,10 @@
+libepoxy (1.3.1-2sr2) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * switch back to generic userspace
+
+ -- Josua Mayer <josua@solid-run.com>  Mon, 26 Nov 2018 13:04:18 +0100
+
 libepoxy (1.3.1-2sr1) unstable; urgency=medium
 
   * Non-maintainer upload.
